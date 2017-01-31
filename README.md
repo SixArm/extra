@@ -25,7 +25,7 @@ This command is currently implemented using `awk` and POSIX.
 
 Related commands for Unix text processing sets:
 
-* [`union`](https://github.com/sixarm/union): print lines in (A extra B)
+* [`union`](https://github.com/sixarm/union): print lines in (A union B)
 * [`intersect`](https://github.com/sixarm/intersect): print lines in (A intersect B)
 * [`except`](https://github.com/sixarm/except): print lines in (A except B) a.k.a. (A - B)
 * [`extra`](https://github.com/sixarm/extra) : print lines in (A extra B) a.k.a. (B - A)
